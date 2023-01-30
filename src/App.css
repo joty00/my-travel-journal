@@ -1,6 +1,7 @@
 body {
     margin: 0;
     font-family: 'Inter', sans-serif;
+    display: flex;
 }
 
 .navbar {
@@ -25,7 +26,6 @@ body {
 }
 
 .card {
-    min-height: 169px;
     margin: 40px;
     display: flex;
     border-bottom: 1px solid #F5F5F5;;
